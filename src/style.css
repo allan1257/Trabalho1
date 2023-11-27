@@ -1,0 +1,52 @@
+* {
+
+margin: 0;
+padding: 0;
+}
+
+nav {
+
+width: 80%;
+margin: 20px auto;
+display: flex;
+justify-content: space-around;
+background-color: #999;
+}
+
+ h1 {
+  
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: -0.8px;
+    text-transform: uppercase;
+    }
+ 
+.accent {
+    color: #EAAB0A
+
+}
+.subtitle {
+
+    display: block;
+    margin-top: -5px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+
+
+}
+
+
+
+    
+
+
+

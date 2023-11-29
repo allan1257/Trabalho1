@@ -130,3 +130,37 @@ ul {
     left: 350px;
     
   }
+
+  .section1 > div {
+    background: url("./images/linhas.svg") center no-repeat;
+    position: absolute;
+    right: 150px;
+
+  }
+  .pessoa{
+    margin-left: 180px;
+
+  }
+
+  .section2{
+
+    background: #FFC501;
+    height: 562px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .section2 > h4 {
+   font-size: 25px;
+   font-weight: 800;
+  }
+
+  .section3 {
+   height: 837px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+  }
